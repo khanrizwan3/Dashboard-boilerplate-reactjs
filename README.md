@@ -7,7 +7,7 @@ npm install
 
 To run test:
 
-npn run test
+npm run test
 
 To run project:
 
